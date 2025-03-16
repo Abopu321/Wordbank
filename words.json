@@ -1,0 +1,1802 @@
+[
+  {
+    "bangla": "আমি",
+    "english": "I",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "তুমি",
+    "english": "you",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "সে",
+    "english": "he/she",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "আমরা",
+    "english": "we",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "তারা",
+    "english": "they",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "এটা",
+    "english": "this",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "ওটা",
+    "english": "that",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "যে",
+    "english": "who",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কি",
+    "english": "what",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কোথায়",
+    "english": "where",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কেন",
+    "english": "why",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কখন",
+    "english": "when",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কিভাবে",
+    "english": "how",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কোনটি",
+    "english": "which",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কেউ",
+    "english": "someone",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কিছু",
+    "english": "something",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কোথাও",
+    "english": "somewhere",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কেউ না",
+    "english": "no one",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কিছু না",
+    "english": "nothing",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "কোথাও না",
+    "english": "nowhere",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "প্রত্যেকে",
+    "english": "everyone",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "সবকিছু",
+    "english": "everything",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "সর্বত্র",
+    "english": "everywhere",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "নিজে",
+    "english": "self",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "একে অপরকে",
+    "english": "each other",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "bangla": "এবং",
+    "english": "and",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "কিন্তু",
+    "english": "but",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "বা",
+    "english": "or",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "যদি",
+    "english": "if",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "যেহেতু",
+    "english": "because",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "যাতে",
+    "english": "so that",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "যদিও",
+    "english": "although",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "তবুও",
+    "english": "yet",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "তাই",
+    "english": "therefore",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "যখন",
+    "english": "when",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "যেখানে",
+    "english": "where",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "যেমন",
+    "english": "as",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "যতক্ষণ",
+    "english": "while",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "পরে",
+    "english": "after",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "আগে",
+    "english": "before",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "পর্যন্ত",
+    "english": "until",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "যেন",
+    "english": "as if",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "অথবা",
+    "english": "or else",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "bangla": "এ",
+    "english": "in",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "উপর",
+    "english": "on",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "নিচে",
+    "english": "under",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "সামনে",
+    "english": "in front of",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "পিছনে",
+    "english": "behind",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "পাশে",
+    "english": "beside",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "মধ্যে",
+    "english": "between",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "ভিতরে",
+    "english": "inside",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "বাইরে",
+    "english": "outside",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "কাছে",
+    "english": "near",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "দূরে",
+    "english": "far",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "সাথে",
+    "english": "with",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "ছাড়া",
+    "english": "without",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "জন্য",
+    "english": "for",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "থেকে",
+    "english": "from",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "দিকে",
+    "english": "towards",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "পর্যন্ত",
+    "english": "until",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "দ্বারা",
+    "english": "by",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "মাধ্যমে",
+    "english": "through",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "বিষয়ে",
+    "english": "about",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "bangla": "ভালোবাসা",
+    "english": "love",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "পানি",
+    "english": "water",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বই",
+    "english": "book",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "খাবার",
+    "english": "food",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "স্কুল",
+    "english": "school",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বাড়ি",
+    "english": "home",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "গাড়ি",
+    "english": "car",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ফুল",
+    "english": "flower",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "গাছ",
+    "english": "tree",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মানুষ",
+    "english": "human",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সময়",
+    "english": "time",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দিন",
+    "english": "day",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "রাত",
+    "english": "night",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সকাল",
+    "english": "morning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বিকাল",
+    "english": "afternoon",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সন্ধ্যা",
+    "english": "evening",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বছর",
+    "english": "year",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মাস",
+    "english": "month",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সপ্তাহ",
+    "english": "week",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ঘন্টা",
+    "english": "hour",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মিনিট",
+    "english": "minute",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সেকেন্ড",
+    "english": "second",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "আকাশ",
+    "english": "sky",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সূর্য",
+    "english": "sun",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "চাঁদ",
+    "english": "moon",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "তারা",
+    "english": "star",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "পৃথিবী",
+    "english": "earth",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সমুদ্র",
+    "english": "sea",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "নদী",
+    "english": "river",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "পাহাড়",
+    "english": "mountain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মাঠ",
+    "english": "field",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "শহর",
+    "english": "city",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "গ্রাম",
+    "english": "village",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দেশ",
+    "english": "country",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বাংলাদেশ",
+    "english": "Bangladesh",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ভারত",
+    "english": "India",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মাথা",
+    "english": "head",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মুখ",
+    "english": "face",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "চোখ",
+    "english": "eye",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "নাক",
+    "english": "nose",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "কান",
+    "english": "ear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মুখ",
+    "english": "mouth",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দাঁত",
+    "english": "tooth",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "হাত",
+    "english": "hand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "পা",
+    "english": "foot",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "পেট",
+    "english": "stomach",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "হৃদয়",
+    "english": "heart",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "রক্ত",
+    "english": "blood",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "খাওয়া",
+    "english": "eat",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "পড়া",
+    "english": "read",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "লেখা",
+    "english": "write",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "যাওয়া",
+    "english": "go",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "আসা",
+    "english": "come",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "দেখা",
+    "english": "see",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "শোনা",
+    "english": "hear",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "বলা",
+    "english": "say",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "করা",
+    "english": "do",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "ঘুমানো",
+    "english": "sleep",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "হাসা",
+    "english": "laugh",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "কাঁদা",
+    "english": "cry",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "হাঁটা",
+    "english": "walk",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "দৌড়ানো",
+    "english": "run",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "বসা",
+    "english": "sit",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "দাঁড়ানো",
+    "english": "stand",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "নাচা",
+    "english": "dance",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "গান গাওয়া",
+    "english": "sing",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "খেলা",
+    "english": "play",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "জিতা",
+    "english": "win",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "হারা",
+    "english": "lose",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "শেখা",
+    "english": "learn",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "শেখানো",
+    "english": "teach",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "ভাবা",
+    "english": "think",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "জানা",
+    "english": "know",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "বোঝা",
+    "english": "understand",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "মনে রাখা",
+    "english": "remember",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "ভুলে যাওয়া",
+    "english": "forget",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "খোঁজা",
+    "english": "search",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "পাওয়া",
+    "english": "get",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "দেওয়া",
+    "english": "give",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "নেওয়া",
+    "english": "take",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "কেনা",
+    "english": "buy",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "বিক্রি করা",
+    "english": "sell",
+    "partOfSpeech": "verb"
+  },
+  {
+    "bangla": "সুন্দর",
+    "english": "beautiful",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "ভালো",
+    "english": "good",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "খারাপ",
+    "english": "bad",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "বড়",
+    "english": "big",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "ছোট",
+    "english": "small",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "লম্বা",
+    "english": "tall",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "খাটো",
+    "english": "short",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "নতুন",
+    "english": "new",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "পুরানো",
+    "english": "old",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "গরম",
+    "english": "hot",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "ঠান্ডা",
+    "english": "cold",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "ধীরে",
+    "english": "slowly",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "bangla": "দ্রুত",
+    "english": "quickly",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "bangla": "এখন",
+    "english": "now",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "bangla": "পরে",
+    "english": "later",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "bangla": "আগে",
+    "english": "before",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "bangla": "এক",
+    "english": "one",
+    "partOfSpeech": "number"
+  },
+  {
+    "bangla": "দুই",
+    "english": "two",
+    "partOfSpeech": "number"
+  },
+  {
+    "bangla": "তিন",
+    "english": "three",
+    "partOfSpeech": "number"
+  },
+  {
+    "bangla": "চার",
+    "english": "four",
+    "partOfSpeech": "number"
+  },
+  {
+    "bangla": "পাঁচ",
+    "english": "five",
+    "partOfSpeech": "number"
+  },
+  {
+    "bangla": "ছয়",
+    "english": "six",
+    "partOfSpeech": "number"
+  },
+  {
+    "bangla": "সাত",
+    "english": "seven",
+    "partOfSpeech": "number"
+  },
+  {
+    "bangla": "আট",
+    "english": "eight",
+    "partOfSpeech": "number"
+  },
+  {
+    "bangla": "নয়",
+    "english": "nine",
+    "partOfSpeech": "number"
+  },
+  {
+    "bangla": "দশ",
+    "english": "ten",
+    "partOfSpeech": "number"
+  },
+  {
+    "bangla": "বাবা",
+    "english": "father",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মা",
+    "english": "mother",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ভাই",
+    "english": "brother",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বোন",
+    "english": "sister",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ছেলে",
+    "english": "son",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মেয়ে",
+    "english": "daughter",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দাদা",
+    "english": "grandfather",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দাদি",
+    "english": "grandmother",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "চাচা",
+    "english": "uncle",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "চাচি",
+    "english": "aunt",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ভাতিজা",
+    "english": "nephew",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ভাতিজি",
+    "english": "niece",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "স্বামী",
+    "english": "husband",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "স্ত্রী",
+    "english": "wife",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বন্ধু",
+    "english": "friend",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "শত্রু",
+    "english": "enemy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "প্রতিবেশী",
+    "english": "neighbor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "অতিথি",
+    "english": "guest",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ভাত",
+    "english": "rice",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "রুটি",
+    "english": "bread",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মাছ",
+    "english": "fish",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মাংস",
+    "english": "meat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সবজি",
+    "english": "vegetable",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ফল",
+    "english": "fruit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দুধ",
+    "english": "milk",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "চা",
+    "english": "tea",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "কফি",
+    "english": "coffee",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "চিনি",
+    "english": "sugar",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "লবণ",
+    "english": "salt",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "তেল",
+    "english": "oil",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ডিম",
+    "english": "egg",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মিষ্টি",
+    "english": "sweet",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "আপেল",
+    "english": "apple",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "কলা",
+    "english": "banana",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "আম",
+    "english": "mango",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "আঙ্গুর",
+    "english": "grape",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "কমলা",
+    "english": "orange",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "পেঁয়াজ",
+    "english": "onion",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "রসুন",
+    "english": "garlic",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "আলু",
+    "english": "potato",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "টমেটো",
+    "english": "tomato",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "গাজর",
+    "english": "carrot",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "শীতকাল",
+    "english": "winter",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "গ্রীষ্মকাল",
+    "english": "summer",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বর্ষাকাল",
+    "english": "rainy season",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বসন্তকাল",
+    "english": "spring",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "শরৎকাল",
+    "english": "autumn",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বৃষ্টি",
+    "english": "rain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বরফ",
+    "english": "snow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বাতাস",
+    "english": "wind",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মেঘ",
+    "english": "cloud",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বজ্র",
+    "english": "thunder",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বিদ্যুৎ",
+    "english": "lightning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ঝড়",
+    "english": "storm",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বন্যা",
+    "english": "flood",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "খরা",
+    "english": "drought",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বাস",
+    "english": "bus",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ট্রেন",
+    "english": "train",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বিমান",
+    "english": "airplane",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "জাহাজ",
+    "english": "ship",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "নৌকা",
+    "english": "boat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সাইকেল",
+    "english": "bicycle",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মোটরসাইকেল",
+    "english": "motorcycle",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "রাস্তা",
+    "english": "road",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "পথ",
+    "english": "path",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সেতু",
+    "english": "bridge",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "স্টেশন",
+    "english": "station",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বিমানবন্দর",
+    "english": "airport",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বন্দর",
+    "english": "port",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "যাত্রা",
+    "english": "journey",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ভ্রমণ",
+    "english": "travel",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "টিকিট",
+    "english": "ticket",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ভাড়া",
+    "english": "fare",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "শিক্ষক",
+    "english": "teacher",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ছাত্র",
+    "english": "student",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "কলেজ",
+    "english": "college",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বিশ্ববিদ্যালয়",
+    "english": "university",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ক্লাস",
+    "english": "class",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "পরীক্ষা",
+    "english": "exam",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "পাঠ",
+    "english": "lesson",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "শিক্ষা",
+    "english": "education",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "জ্ঞান",
+    "english": "knowledge",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বিজ্ঞান",
+    "english": "science",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "গণিত",
+    "english": "mathematics",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ইতিহাস",
+    "english": "history",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ভূগোল",
+    "english": "geography",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ভাষা",
+    "english": "language",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সাহিত্য",
+    "english": "literature",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ডাক্তার",
+    "english": "doctor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ইঞ্জিনিয়ার",
+    "english": "engineer",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "আইনজীবী",
+    "english": "lawyer",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ব্যবসায়ী",
+    "english": "businessman",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "কৃষক",
+    "english": "farmer",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "শ্রমিক",
+    "english": "worker",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "চাকরি",
+    "english": "job",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "অফিস",
+    "english": "office",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "কারখানা",
+    "english": "factory",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বেতন",
+    "english": "salary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "অর্থ",
+    "english": "money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ব্যাংক",
+    "english": "bank",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দোকান",
+    "english": "shop",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বাজার",
+    "english": "market",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "হাসপাতাল",
+    "english": "hospital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ওষুধ",
+    "english": "medicine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "রোগ",
+    "english": "disease",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "জ্বর",
+    "english": "fever",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ব্যথা",
+    "english": "pain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "স্বাস্থ্য",
+    "english": "health",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "শরীর",
+    "english": "body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "কম্পিউটার",
+    "english": "computer",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মোবাইল",
+    "english": "mobile phone",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ইন্টারনেট",
+    "english": "internet",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ওয়েবসাইট",
+    "english": "website",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ইমেইল",
+    "english": "email",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সফটওয়্যার",
+    "english": "software",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "হার্ডওয়্যার",
+    "english": "hardware",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "টেলিভিশন",
+    "english": "television",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "রেডিও",
+    "english": "radio",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ক্যামেরা",
+    "english": "camera",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সুখ",
+    "english": "happiness",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দুঃখ",
+    "english": "sadness",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "রাগ",
+    "english": "anger",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ভয়",
+    "english": "fear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "আনন্দ",
+    "english": "joy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বিষাদ",
+    "english": "sorrow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "আশা",
+    "english": "hope",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "হতাশা",
+    "english": "despair",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সাহস",
+    "english": "courage",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ভীতি",
+    "english": "terror",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "লাল",
+    "english": "red",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "নীল",
+    "english": "blue",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "সবুজ",
+    "english": "green",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "হলুদ",
+    "english": "yellow",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "কালো",
+    "english": "black",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "সাদা",
+    "english": "white",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "বাদামী",
+    "english": "brown",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "বেগুনি",
+    "english": "purple",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "কমলা",
+    "english": "orange",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "ধূসর",
+    "english": "gray",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "bangla": "জামা",
+    "english": "shirt",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "প্যান্ট",
+    "english": "pants",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "জুতা",
+    "english": "shoe",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মোজা",
+    "english": "sock",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "টুপি",
+    "english": "hat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "চশমা",
+    "english": "glasses",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ঘড়ি",
+    "english": "watch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ব্যাগ",
+    "english": "bag",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ছাতা",
+    "english": "umbrella",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "খাট",
+    "english": "bed",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "চেয়ার",
+    "english": "chair",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "টেবিল",
+    "english": "table",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "আলমারি",
+    "english": "cupboard",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দরজা",
+    "english": "door",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "জানালা",
+    "english": "window",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ছাদ",
+    "english": "roof",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মেঝে",
+    "english": "floor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দেয়াল",
+    "english": "wall",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "রান্নাঘর",
+    "english": "kitchen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বাথরুম",
+    "english": "bathroom",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "শোবার ঘর",
+    "english": "bedroom",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ফুটবল",
+    "english": "football",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ক্রিকেট",
+    "english": "cricket",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সাঁতার",
+    "english": "swimming",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দৌড়",
+    "english": "running",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "খেলাধুলা",
+    "english": "sports",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "খেলোয়াড়",
+    "english": "player",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "দল",
+    "english": "team",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "প্রতিযোগিতা",
+    "english": "competition",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সিনেমা",
+    "english": "cinema",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সঙ্গীত",
+    "english": "music",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "নাটক",
+    "english": "drama",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "চিত্র",
+    "english": "painting",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "শিল্প",
+    "english": "art",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "সরকার",
+    "english": "government",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "রাজনীতি",
+    "english": "politics",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "আইন",
+    "english": "law",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "নিয়ম",
+    "english": "rule",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "অধিকার",
+    "english": "right",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "স্বাধীনতা",
+    "english": "freedom",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "শান্তি",
+    "english": "peace",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "যুদ্ধ",
+    "english": "war",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ব্যবসা",
+    "english": "business",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বাণিজ্য",
+    "english": "commerce",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "অর্থনীতি",
+    "english": "economy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "বাজার",
+    "english": "market",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "মূল্য",
+    "english": "price",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "লাভ",
+    "english": "profit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "ক্ষতি",
+    "english": "loss",
+    "partOfSpeech": "noun"
+  },
+  {
+    "bangla": "কোম্পানি",
+    "english": "company",
+    "partOfSpeech": "noun"
+  }
+]
