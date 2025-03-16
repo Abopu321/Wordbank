@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dictionary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        input {
+            padding: 10px;
+            width: 300px;
+        }
+
+        button {
+            padding: 10px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        #result {
+            margin-top: 20px;
+            font-size: 20px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Bangla - English Dictionary</h2>
+    <input type="text" id="searchBox" placeholder="Type a word...">
+    <button onclick="searchWord()">Search</button>
+    <div id="result"></div>
+
+    <script>
+        let dictionary = {};
+
+        // Load JSON Data from the file
+        fetch('words.json')
+            .then(response => response.json())
+            .then(data => {
+                dictionary = data;
+            })
+            .catch(error => {
+                console.log('Error loading JSON data:', error);
+            });
+
+        // Function to search a word from the dictionary
+        function searchWord() {
+            let word = document.getElementById("searchBox").value.trim();
+            let resultBox = document.getElementById("result");
+
+            if (dictionary[word]) {
+                resultBox.innerHTML = `<b>${word}:</b> ${dictionary[word]}`;
+                saveSearchHistory(word);
+            } else {
+                resultBox.innerHTML = "No result found!";
+            }
+        }
+
+        // Save search history in localStorage
+        function saveSearchHistory(word) {
+            let searchHistory = JSON.parse(localStorage.getItem("searchHistory")) || [];
+            let time = new Date().toISOString();
+
+            // Add the new search entry
+            searchHistory.push({ word: word, time: time });
+
+            // Save back to localStorage
+            localStorage.setItem("searchHistory", JSON.stringify(searchHistory));
+        }
+
+        // Function to get search history (optional)
+        function getSearchHistory() {
+            let searchHistory = JSON.parse(localStorage.getItem("searchHistory"));
+            console.log(searchHistory);
+        }
+    </script>
+</body>
+</html>
